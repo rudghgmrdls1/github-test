@@ -7,7 +7,7 @@
 
 -----------------------------------------
 ## <img src="https://github.com/rudghgmrdls1/github-test/blob/%EB%8F%99%EB%AF%BC%EB%8B%98/Images/101377860.png" width="5%" height="5%" title="px" alt="keastmin profile"></img> 김동민
-- 닉네임
+- 닉네임   
 keastmin
 
 - 좋아하는 게임
